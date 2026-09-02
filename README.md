@@ -20,7 +20,7 @@ bun parse-buffer.js
 bun write-summary.js
 The generated results are saved in summary.csv.
 
-Technologies
+## Technologies
 Node.js
 Bun
 JavaScript
