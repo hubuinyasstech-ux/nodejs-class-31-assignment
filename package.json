@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-class-31-assignment",
+  "version": "1.0.0",
+  "description": "A simple Node.js project from Class 31, focused on working with CSV data, file handling, buffers, and performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubuinyasstech-ux/nodejs-class-31-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hubuinyasstech-ux/nodejs-class-31-assignment/issues"
+  },
+  "homepage": "https://github.com/hubuinyasstech-ux/nodejs-class-31-assignment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
